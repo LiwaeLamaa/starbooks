@@ -6,24 +6,21 @@ showBooks()
 
 function showBooks() {
     main.innerHTML = ''
-	let data = '{ "books" : [' +
-'{ "name":"لغات محددة المجال", "link":"SE/Domain Specific Langauges by Martin Fowler.pdf" },' +
-'{ "name":"داتا  " , "link":"داتا " },' +
-'{ "name":"داتا " , "link":"داتا " } ]}';
 
-	const obj = JSON.parse(data);
-
-    obj.books.forEach((book) => {
-
+    var url = "data.json";         
+    $.getJSON(url, function (data) {
+        $.each(data, function (key, model) {
         const movieEl = document.createElement('div')
         movieEl.classList.add('book')
 
         movieEl.innerHTML = `
             <div class="movie-info">
-        <input type="button" class="button" value="${book.name}" onclick="window.open('${book.link}')" />
+        <input type="button" class="button" value="${model.name}" onclick="window.open('${model.link}')" />
 		</div>
         `
 		
         main.appendChild(movieEl)
-    })
+        })
+    });
+
 }
