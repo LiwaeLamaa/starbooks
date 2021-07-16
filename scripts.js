@@ -2,25 +2,24 @@ const main = document.getElementById('main')
 const form = document.getElementById('form')
 const search = document.getElementById('search')
 
-showBooks()
+showBooks("https://raw.githubusercontent.com/LiwaeLamaa/starbooks/main/data.json")
 
-function showBooks() {
+function showBooks(url) {
     main.innerHTML = ''
+	    $.getJSON(url, function(data) {
+            data.books.forEach((book) => {
 
-    var url = "data.json";         
-    $.getJSON(url, function (data) {
-        $.each(data, function (key, model) {
         const movieEl = document.createElement('div')
         movieEl.classList.add('book')
 
         movieEl.innerHTML = `
             <div class="movie-info">
-        <input type="button" class="button" value="${model.name}" onclick="window.open('${model.link}')" />
+        <input type="button" class="button" value="${book.name}" onclick="window.open('${book.link}')" />
 		</div>
         `
 		
         main.appendChild(movieEl)
-        })
-    });
+    })
 
+    });
 }
