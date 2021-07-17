@@ -29,6 +29,10 @@
          "link":"abdo-khal/نباح_ عبده خال.pdf"
       },
       {
+         "name":"The Stranger - Albert Camus",
+         "link":"albert-camus/The Stranger - Albert Camus.pdf"
+      },
+      {
          "name":"الألف_ خورخي لويس بورخيس",
          "link":"borges/الألف_ خورخي لويس بورخيس.pdf"
       },
@@ -137,6 +141,22 @@
          "link":"charlie-higson/الموتى ٢ تشارلي هيغسون.pdf"
       },
       {
+         "name":"الليالي البيضاء- دوستويفسكي",
+         "link":"dostoevsky/الليالي البيضاء- دوستويفسكي.pdf"
+      },
+      {
+         "name":"المقامر_ دوستويفسكي",
+         "link":"dostoevsky/المقامر_ دوستويفسكي.pdf"
+      },
+      {
+         "name":"قصص ضائعة - غابرييل غارسيا ماركيز",
+         "link":"gabriel-garcia/قصص ضائعة - غابرييل غارسيا ماركيز.pdf"
+      },
+      {
+         "name":"مائة_عام_من_العزلة_غابرييل_غارسيا",
+         "link":"gabriel-garcia/مائة_عام_من_العزلة_غابرييل_غارسيا.pdf"
+      },
+      {
          "name":"1984 - George Orwell",
          "link":"george-orwell/1984 - George Orwell.pdf"
       },
@@ -155,6 +175,14 @@
       {
          "name":"غسان كنفاني - عائد الى حيفا",
          "link":"ghassan-kanafani/غسان كنفاني - عائد الى حيفا.pdf"
+      },
+      {
+         "name":"المشتبه_به_ال17_رواية_ل_جيمس_باترسون",
+         "link":"james-patterson/المشتبه_به_ال17_رواية_ل_جيمس_باترسون.pdf"
+      },
+      {
+         "name":"محاكمة أليكس كروس , جيمس باترسون",
+         "link":"james-patterson/محاكمة أليكس كروس , جيمس باترسون.pdf"
       },
       {
          "name":"النبي - جبران  عربي انجليزي",
@@ -305,8 +333,16 @@
          "link":"noam-chomsky/من يمتلك العالم_ نعوم تشومسكي.pdf"
       },
       {
+         "name":"ابابيل رواية شريف عبدالهادي ",
+         "link":"other/ابابيل رواية شريف عبدالهادي .pdf"
+      },
+      {
          "name":"بائعة الكتب",
          "link":"other/بائعة الكتب.pdf"
+      },
+      {
+         "name":"تلك العتمة الباهرة ..الطاهر بن جلون",
+         "link":"other/تلك العتمة الباهرة ..الطاهر بن جلون.pdf"
       },
       {
          "name":"حوار صريح مع ابليس",
@@ -329,12 +365,20 @@
          "link":"other/فن العيش الحكيم - أرتور شوبنهاور.pdf"
       },
       {
+         "name":"كافكا_على_الشاطئ_رواية_لـ_هاروكي",
+         "link":"other/كافكا_على_الشاطئ_رواية_لـ_هاروكي.pdf"
+      },
+      {
          "name":"كائن يمرح في العدم فيصل الحبيني ",
          "link":"other/كائن يمرح في العدم فيصل الحبيني .pdf"
       },
       {
          "name":"لا تأكل بمفردك",
          "link":"other/لا تأكل بمفردك.pdf"
+      },
+      {
+         "name":"جوج وماجوج , باتريسيا ميلو",
+         "link":"patricia-melo/جوج وماجوج , باتريسيا ميلو.pdf"
       },
       {
          "name":"صالح بن يحيى -  تاريخ بيروت",
@@ -361,12 +405,40 @@
          "link":"samir-abdo/هو و هي_ سمير عبده.pdf"
       },
       {
+         "name":"ساق البامبو - سعود السنعوسي",
+         "link":"saoud-sanousi/ساق البامبو - سعود السنعوسي.pdf"
+      },
+      {
          "name":"Domain Specific Langauges by Martin Fowler",
          "link":"SE/Domain Specific Langauges by Martin Fowler.pdf"
       },
       {
          "name":"The Design of Everyday Things by Don Norman (z-lib.org)",
          "link":"SE/The Design of Everyday Things by Don Norman (z-lib.org).pdf"
+      },
+      {
+         "name":"توفيق الحكيم - الأيدي الناعمة",
+         "link":"toufik-hakim/توفيق الحكيم - الأيدي الناعمة.pdf"
+      },
+      {
+         "name":"توفيق الحكيم - الرباط المقدس",
+         "link":"toufik-hakim/توفيق الحكيم - الرباط المقدس.pdf"
+      },
+      {
+         "name":"توفيق الحكيم - حمار الحكيم",
+         "link":"toufik-hakim/توفيق الحكيم - حمار الحكيم.pdf"
+      },
+      {
+         "name":"توفيق الحكيم - حماري قال لي",
+         "link":"toufik-hakim/توفيق الحكيم - حماري قال لي.pdf"
+      },
+      {
+         "name":"توفيق الحكيم - عدالة وفن",
+         "link":"toufik-hakim/توفيق الحكيم - عدالة وفن.pdf"
+      },
+      {
+         "name":"توفيق الحكيم - عودة الوعي",
+         "link":"toufik-hakim/توفيق الحكيم - عودة الوعي.pdf"
       },
       {
          "name":"البعوض_ ويليام فوكنر ",

@@ -28,7 +28,6 @@ for file in decoded_files:
     book_json_obj = {"name": name.decode("UTF-8").replace(".pdf",""), "link": rel_file }
     books_list.append(book_json_obj)
 
-#json_data = json.dumps(books_list)
 books_json = {"books": books_list}
 with open('data.json', 'w', encoding='utf-8') as outfile:
     outfile.write(str(books_json))
