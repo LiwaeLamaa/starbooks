@@ -30,5 +30,5 @@ for file in decoded_files:
 
 #json_data = json.dumps(books_list)
 books_json = {"books": books_list}
-with open('data1.json', 'w', encoding='utf-8') as outfile:
+with open('data.json', 'w', encoding='utf-8') as outfile:
     outfile.write(str(books_json))
