@@ -17,8 +17,6 @@ for my_file in files:
     new_name = my_file.encode("UTF-8")    
     decoded_files.append(new_name)
 	
-rel_files = []
-file_names = []
 for file in decoded_files:
     name = os.path.basename(file)
     prefix = start_dir.replace("\\","/")
@@ -28,6 +26,7 @@ for file in decoded_files:
     book_json_obj = {"name": name.decode("UTF-8").replace(".pdf",""), "link": rel_file }
     books_list.append(book_json_obj)
 
+print("Books in Lib: "  + str(len(books_list)))
 books_json = {"books": books_list}
 with open('data.json', 'w', encoding='utf-8') as outfile:
     outfile.write(str(books_json))
