@@ -23,6 +23,7 @@ function showBooks(url, filter) {
 			createColor(colors, randNum, name, link);
 		}
     })
+	scatterCards();
 	show(0);
     });
 }
@@ -61,4 +62,24 @@ function show(i) {
 		}, 100);
 	}
 }
+function scatterCards() {
+	$("details")
+		.each(function () {
+			var rNum = Math.random() * 50 - 2;
+			rNum *= Math.floor(Math.random() * 2) == 1 ? 1 : -1;
+			var x = Math.random() * 50 - 5;
+			var y = Math.random() * 50 - 5;
+			x *= Math.floor(Math.random() * 2) == 1 ? 1 : -1;
+			y *= Math.floor(Math.random() * 2) == 1 ? 1 : -1;
+
+			$(this).css({
+				"-webkit-transform": "rotate(" + rNum + "2deg)",
+				"-moz-transform": "rotate(" + rNum + "2deg)",
+				top: x,
+				left: y
+			});
+		})
+		.draggable({ stack: "details" });
+}
+
 

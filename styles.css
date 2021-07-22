@@ -147,6 +147,8 @@ details {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	user-select: none;
 	text-transform: uppercase;
+	word-wrap: break-word;
+
 }
 
 .color-title {
@@ -157,13 +159,14 @@ summary {
 	width: 100%;
 	height: var(--color-size);
 	cursor: pointer;
+	word-wrap: break-word;
 }
 
 .color-title,
 .color-codes {
 	background: white;
 	padding: 15px;
-	height: calc((var(--color-size)) / 2);
+	height: calc((var(--color-size)) / 1.1);
 	position: absolute;
 	width: 100%;
 	word-wrap: break-word;
@@ -173,7 +176,7 @@ summary {
 .color-title:before,
 .color-codes:before {
 	position: absolute;
-	font-size: 26px;
+	font-size: 20px;
 	letter-spacing: -1px;
 	font-weight: 800;
 	word-wrap: break-word;
@@ -195,9 +198,9 @@ h1 {
 	margin-top: 30px;
 	margin-right: 5px;
 	margin-left: 5px;
+	margin-bottom: 5px;
 	font-size: 16px;
 	word-wrap: break-word;
-
 	font-weight: 600;
 }
 
