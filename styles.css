@@ -195,13 +195,13 @@ details > summary: {
 }
 
 h1 {
-	margin-top: 30px;
+	margin-top: 5px;
 	margin-right: 5px;
 	margin-left: 5px;
 	margin-bottom: 5px;
 	font-size: 16px;
 	word-wrap: break-word;
-	font-weight: 600;
+	font-weight: 400;
 }
 
 #desc {
