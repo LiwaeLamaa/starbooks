@@ -133,6 +133,50 @@
          "link":"borges/مرآة الحبر_ خورخي لويس بورخيس .pdf"
       },
       {
+         "name":"أجمل_نساء_المدينة_قصص_لـ_تشارلز_بوكوفسكي",
+         "link":"bukovski/أجمل_نساء_المدينة_قصص_لـ_تشارلز_بوكوفسكي.pdf"
+      },
+      {
+         "name":"أدب_رخيص_رواية_لـ_تشارلز_بوكوفسكي",
+         "link":"bukovski/أدب_رخيص_رواية_لـ_تشارلز_بوكوفسكي.pdf"
+      },
+      {
+         "name":"الشطيرة ل تشارلز بوكوفسكي",
+         "link":"bukovski/الشطيرة ل تشارلز بوكوفسكي.pdf"
+      },
+      {
+         "name":"بوكوفسكي، الحب كلب من الجحيم",
+         "link":"bukovski/بوكوفسكي، الحب كلب من الجحيم.pdf"
+      },
+      {
+         "name":"تشارلز_بوكوفسكي_حيوات_خسيسة_قصائد",
+         "link":"bukovski/تشارلز_بوكوفسكي_حيوات_خسيسة_قصائد.pdf"
+      },
+      {
+         "name":"جنوب بلا شمال ل تشارلز بوكوفسكي",
+         "link":"bukovski/جنوب بلا شمال ل تشارلز بوكوفسكي.pdf"
+      },
+      {
+         "name":"لا تحاول .. تشارلز بوكوفيسكي",
+         "link":"bukovski/لا تحاول .. تشارلز بوكوفيسكي.pdf"
+      },
+      {
+         "name":"محترقأ فى الماء بوكوفسكي",
+         "link":"bukovski/محترقأ فى الماء بوكوفسكي.pdf"
+      },
+      {
+         "name":"مكتب_البريد_رواية_لـ_تشارلز_بوكوفسكي",
+         "link":"bukovski/مكتب_البريد_رواية_لـ_تشارلز_بوكوفسكي.pdf"
+      },
+      {
+         "name":"نساء رواية لـ شارلز بوكوفسكي",
+         "link":"bukovski/نساء رواية لـ شارلز بوكوفسكي.pdf"
+      },
+      {
+         "name":"هوليود رواية ل تشارلز بوكوفسكي",
+         "link":"bukovski/هوليود رواية ل تشارلز بوكوفسكي.pdf"
+      },
+      {
          "name":"إتصال_ كارل ساغان",
          "link":"carl-sagan/إتصال_ كارل ساغان.pdf"
       },
@@ -175,6 +219,14 @@
       {
          "name":"الموتى ٢ تشارلي هيغسون",
          "link":"charlie-higson/الموتى ٢ تشارلي هيغسون.pdf"
+      },
+      {
+         "name":"Quantum computing for everyone by Bernhardt, Chris",
+         "link":"chris-bernhardt/Quantum computing for everyone by Bernhardt, Chris.pdf"
+      },
+      {
+         "name":"Turing’s Vision The Birth of Computer Science by Chris Bernhardt",
+         "link":"chris-bernhardt/Turing’s Vision The Birth of Computer Science by Chris Bernhardt.pdf"
       },
       {
          "name":"الأبله 1 رواية ل دوستويفسكي",
@@ -413,6 +465,18 @@
          "link":"mahmoud-darwich/محمود درويش - في حضرة الغياب.pdf"
       },
       {
+         "name":"الليلة الأولى_ مارك ليفي ",
+         "link":"mark-levy/الليلة الأولى_ مارك ليفي .pdf"
+      },
+      {
+         "name":"هي وهو - مارك ليفي",
+         "link":"mark-levy/هي وهو - مارك ليفي.pdf"
+      },
+      {
+         "name":"وجدتك_ مارك ليفي",
+         "link":"mark-levy/وجدتك_ مارك ليفي.pdf"
+      },
+      {
          "name":"البطء رواية لـ ميلان كونديرا",
          "link":"milan-kundera/البطء رواية لـ ميلان كونديرا.pdf"
       },
@@ -605,6 +669,38 @@
          "link":"noam-chomsky/من يمتلك العالم_ نعوم تشومسكي.pdf"
       },
       {
+         "name":"Building Microservices by Sam Newman",
+         "link":"oreilly/Building Microservices by Sam Newman.pdf"
+      },
+      {
+         "name":"Design for How People Think Using Brain Science to Build Better Products by John Whalen",
+         "link":"oreilly/Design for How People Think Using Brain Science to Build Better Products by John Whalen.pdf"
+      },
+      {
+         "name":"Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann",
+         "link":"oreilly/Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann.pdf"
+      },
+      {
+         "name":"Introduction to Machine Learning with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido",
+         "link":"oreilly/Introduction to Machine Learning with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido.pdf"
+      },
+      {
+         "name":"Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning by Chris Albon",
+         "link":"oreilly/Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning by Chris Albon.pdf"
+      },
+      {
+         "name":"Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney",
+         "link":"oreilly/Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney.pdf"
+      },
+      {
+         "name":"Quantum Computer Science An Introduction by N. David Mermin",
+         "link":"oreilly/Quantum Computer Science An Introduction by N. David Mermin.pdf"
+      },
+      {
+         "name":"Web Scraping with Python Collecting More Data from the Modern Web by Ryan Mitchell",
+         "link":"oreilly/Web Scraping with Python Collecting More Data from the Modern Web by Ryan Mitchell.pdf"
+      },
+      {
          "name":"Consciousness,_Language,_and_Self",
          "link":"other/Consciousness,_Language,_and_Self.pdf"
       },
@@ -615,6 +711,10 @@
       {
          "name":"ابابيل رواية شريف عبدالهادي ",
          "link":"other/ابابيل رواية شريف عبدالهادي .pdf"
+      },
+      {
+         "name":"الامنيات لا تموت",
+         "link":"other/الامنيات لا تموت.pdf"
       },
       {
          "name":"الحب في الزمن الخاطئ",
@@ -653,6 +753,10 @@
          "link":"other/حوار صريح مع ابليس.pdf"
       },
       {
+         "name":"دروز_سورية_ولبنان",
+         "link":"other/دروز_سورية_ولبنان.pdf"
+      },
+      {
          "name":"رأيت_رام_الله_رواية_ل_مريد_البرغوثي",
          "link":"other/رأيت_رام_الله_رواية_ل_مريد_البرغوثي.pdf"
       },
@@ -675,6 +779,10 @@
       {
          "name":"عن الحرية - جون ستيوارت ميل",
          "link":"other/عن الحرية - جون ستيوارت ميل.pdf"
+      },
+      {
+         "name":"فكر_بنفسك_!_عشرون_تطبيقاً_للفلسفة",
+         "link":"other/فكر_بنفسك_!_عشرون_تطبيقاً_للفلسفة.pdf"
       },
       {
          "name":"فن العيش الحكيم - أرتور شوبنهاور",
@@ -711,6 +819,10 @@
       {
          "name":"متفكك",
          "link":"other/متفكك.pdf"
+      },
+      {
+         "name":"مدينة من بخار ، كارلوس زافون",
+         "link":"other/مدينة من بخار ، كارلوس زافون.pdf"
       },
       {
          "name":"نقش على خاصرة الياسمين",
@@ -789,12 +901,20 @@
          "link":"saoud-sanousi/ساق البامبو - سعود السنعوسي.pdf"
       },
       {
+         "name":"A Passion for Mathematics - Numbers, Puzzles, Madness, Religion, and the Quest for Reality by Clifford A. Pickover",
+         "link":"SE/A Passion for Mathematics - Numbers, Puzzles, Madness, Religion, and the Quest for Reality by Clifford A. Pickover.pdf"
+      },
+      {
+         "name":"Coding Theory - Algorithms, Architectures, and Applications by Andre Neubauer, Jurgen Freudenberger, Volker Kuhn",
+         "link":"SE/Coding Theory - Algorithms, Architectures, and Applications by Andre Neubauer, Jurgen Freudenberger, Volker Kuhn.pdf"
+      },
+      {
          "name":"Domain Specific Langauges by Martin Fowler",
          "link":"SE/Domain Specific Langauges by Martin Fowler.pdf"
       },
       {
-         "name":"The Design of Everyday Things by Don Norman (z-lib.org)",
-         "link":"SE/The Design of Everyday Things by Don Norman (z-lib.org).pdf"
+         "name":"The Design of Everyday Things by Don Norman",
+         "link":"SE/The Design of Everyday Things by Don Norman.pdf"
       },
       {
          "name":"الرجل القبرصي_الطيب صالح",
